@@ -1,65 +1,115 @@
-Hi, I'm Kawish Iqbal 👋
+# Kawish Iqbal
 
-🔭 About Me
+Full Stack Developer (MERN / Next.js) with 2 years of experience building AI-integrated, production-grade web applications. Focused on writing clean, scalable code and shipping reliable systems.
 
-I am a passionate Full Stack Developer with 2+ years of experience specializing in the MERN Stack. I have a strong track record of building scalable, AI-integrated web applications using React.js, Next.js, and Node.js.
+📍 Islamabad, Pakistan
+📫 kawishiqbal898@gmail.com
+🌐 [Portfolio](https://portfolio-n6t6.vercel.app)
+💼 [LinkedIn](https://linkedin.com/in/kawish-iqbal-222767264)
 
-I love solving complex problems and optimizing application performance. Currently, I'm focused on building modern web solutions that enhance user interaction and business efficiency.
+---
 
-🌱 Current Focus:
-Advanced Next.js & AI Integrations
+## About Me
 
-💼 Experience: 2 Years (Veclar Technologies, Crafting Colons)
+I build full-stack web applications using the MERN stack and Next.js, with hands-on experience in DevOps (Docker, AWS, CI/CD) and QA (unit, component, and manual testing). I care about performance, reliability, and shipping things that actually work in production.
 
-🎓 Education: Bachelor's in Computer Science (Iqra University)
+Currently working at **Veclar Technologies**, Islamabad — building scalable real estate and property management platforms serving 1,000+ active users.
 
-🚀 Open to: Full-time Software Engineer opportunities
+---
 
-🛠️ Tech Stack
+## Skills
 
-Frontend Development
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS
 
--React
--Next.js
--JavaScript
--TailwindCSS
--Bootstrap
+**Backend:** Node.js, Express.js, REST APIs, Server-Sent Events (SSE)
 
-Backend & Database
+**Database:** MongoDB, Mongoose, MySQL
 
--Node.js
--Express.js
--MongoDBMySQL
+**DevOps:** Docker, Kubernetes, AWS, CI/CD Pipelines, Terraform, Vercel, Render, GitHub Actions
 
-Tools & DevOps
+**QA & Testing:** Unit testing, component testing, manual QA, API testing, regression testing
 
--Git
--GitHub
--Docker
--AWS
+**AI & Other:** Gemini API, Botpress, Segment Anything Model (SAM), Python
 
-🚀 Featured Projects
+---
 
-🍽️ Smart Dining Hub
+## Experience
 
-AI-powered restaurant management system
+### MERN Stack Developer — Veclar Technologies
+*Dec 2025 – May 2026 | Islamabad*
 
-Tech Stack: MERN, Socket.io/SSE, TailwindCSS
+- Built and deployed 3+ full stack web applications in an Agile team, serving 1,000+ active users
+- Developed REST APIs with average response time under 200ms, validated through unit and component tests
+- Implemented Server-Sent Events (SSE) for live data updates, reducing polling overhead by 60%
+- Optimized MongoDB queries and indexing, improving backend response speed by 35%
+- Set up CI/CD workflows and Docker environments to standardize deployments and reduce release errors
 
-Features: Real-time order tracking, automated menu suggestions, reduced order errors by 50%.
+### Full Stack Developer — Crafting Colons
+*Jan 2025 – Jun 2025 | Islamabad*
 
-🏠 Real Estate Platforms (Veclar Technologies)
+- Delivered 2 production-ready Next.js + MERN applications for clients, deployed on Vercel and Render
+- Integrated AI chatbots using Gemini API and Botpress, reducing support queries by 40%
+- Built real-time dashboards with live tracking for client reporting
+- Performed manual and component-level QA before each release; mentored junior teammates on testing
 
-Scalable property listing and management system
+---
 
-Tech Stack: Next.js, MongoDB, JWT Auth
+## Projects
 
-Features: Advanced search filters, Admin Dashboard, serving 1,000+ users.
+### Smart Dining Hub — AI Restaurant Management System
+An AI-powered restaurant management system with real-time order tracking and automated menu suggestions.
 
-🤖 AI Chatbot Integration
+- Reduced manual order errors by 50% through AI-driven automation
+- Containerized with Docker, deployed on AWS with a full CI/CD pipeline
+- Unit and component tested across all core ordering and sync flows
 
-Automated customer support solution
+🔗 [github.com/Kawish07/smart-dining-hub](https://github.com/Kawish07/smart-dining-hub)
 
-Tech Stack: Gemini API, Botpress, React.js
+---
 
-Impact: Reduced client support queries by 40% with intelligent responses.
+### Real Estate Platform
+A property listing and search platform with JWT authentication, admin dashboard, and advanced search filters.
+
+- **Tech:** MERN · JWT · MongoDB
+
+---
+
+### TriWebStudio
+A full-stack web studio platform built with TypeScript.
+
+🔗 [github.com/Kawish07/TriWebStudio](https://github.com/Kawish07/TriWebStudio)
+
+---
+
+### Ecommerce Website
+A full-featured ecommerce application with product management and checkout flow.
+
+🔗 [github.com/Kawish07/Ecommerce-Website](https://github.com/Kawish07/Ecommerce-Website)
+
+---
+
+### Floor Detection System — Computer Vision
+An AI-based floor detection pipeline using Meta's Segment Anything Model (SAM).
+
+- Achieved 90%+ detection accuracy
+- **Tech:** Python · SAM · Computer Vision
+
+---
+
+### Stock Management System
+An inventory and stock tracking system built with TypeScript.
+
+🔗 [github.com/Kawish07/Stock-management-system](https://github.com/Kawish07/Stock-management-system)
+
+---
+
+## Education
+
+**BS Computer Science** — Iqra University, Islamabad
+2021 – 2025
+
+---
+
+## Languages
+
+English — Professional | Urdu — Native
