@@ -1,115 +1,117 @@
-# Kawish Iqbal
+# Hi, I'm Kawish Iqbal 👋
 
-Full Stack Developer (MERN / Next.js) with 2 years of experience building AI-integrated, production-grade web applications. Focused on writing clean, scalable code and shipping reliable systems.
+### Full Stack Developer | MERN Stack | Next.js | TypeScript | AI Integration
 
-📍 Islamabad, Pakistan
-📫 kawishiqbal898@gmail.com
-🌐 [Portfolio](https://portfolio-n6t6.vercel.app)
-💼 [LinkedIn](https://linkedin.com/in/kawish-iqbal-222767264)
+I build scalable full-stack web applications, REST APIs and AI-powered features. I enjoy solving real-world problems through clean code, practical architecture and reliable software.
 
----
-
-## About Me
-
-I build full-stack web applications using the MERN stack and Next.js, with hands-on experience in DevOps (Docker, AWS, CI/CD) and QA (unit, component, and manual testing). I care about performance, reliability, and shipping things that actually work in production.
-
-Currently working at **Veclar Technologies**, Islamabad — building scalable real estate and property management platforms serving 1,000+ active users.
+- 💻 **Experience:** 2 years in web development
+- 🚀 **Focus:** Full Stack Development and AI Integration
+- 🌍 **Location:** Pakistan
+- 📫 **Email:** kawishiqbal898@gmail.com
+- 🌐 **Portfolio:** https://portfolio-n6t6.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kawish-iqbal-222767264/
 
 ---
 
-## Skills
+## 🛠️ Technical Skills
 
-**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-**Backend:** Node.js, Express.js, REST APIs, Server-Sent Events (SSE)
+**Backend:** Node.js, Express.js, REST APIs, Server-Sent Events
 
-**Database:** MongoDB, Mongoose, MySQL
+**Databases:** MongoDB, Mongoose, MySQL
 
-**DevOps:** Docker, Kubernetes, AWS, CI/CD Pipelines, Terraform, Vercel, Render, GitHub Actions
+**Authentication:** JWT, NextAuth, Role-Based Access Control
 
-**QA & Testing:** Unit testing, component testing, manual QA, API testing, regression testing
+**AI Integration:** Gemini API, AI Chatbots, Prompt Engineering
 
-**AI & Other:** Gemini API, Botpress, Segment Anything Model (SAM), Python
+**DevOps & Deployment:** Docker, GitHub Actions, CI/CD, Vercel, Render
+
+**Testing:** Postman, API Testing, Manual Testing, Unit Testing
+
+**Programming:** JavaScript, TypeScript, Python
 
 ---
 
-## Experience
+## 💼 Professional Experience
 
 ### MERN Stack Developer — Veclar Technologies
-*Dec 2025 – May 2026 | Islamabad*
+*December 2025 – May 2026 | Islamabad, Pakistan*
 
-- Built and deployed 3+ full stack web applications in an Agile team, serving 1,000+ active users
-- Developed REST APIs with average response time under 200ms, validated through unit and component tests
-- Implemented Server-Sent Events (SSE) for live data updates, reducing polling overhead by 60%
-- Optimized MongoDB queries and indexing, improving backend response speed by 35%
-- Set up CI/CD workflows and Docker environments to standardize deployments and reduce release errors
+- Developed and maintained full-stack applications using the MERN stack.
+- Built REST APIs and implemented real-time updates using Server-Sent Events.
+- Optimized MongoDB queries and database indexing.
+- Worked on deployment workflows and Docker-based environments.
+- Contributed to applications serving over 1,000 users.
 
 ### Full Stack Developer — Crafting Colons
-*Jan 2025 – Jun 2025 | Islamabad*
+*January 2025 – June 2025 | Islamabad, Pakistan*
 
-- Delivered 2 production-ready Next.js + MERN applications for clients, deployed on Vercel and Render
-- Integrated AI chatbots using Gemini API and Botpress, reducing support queries by 40%
-- Built real-time dashboards with live tracking for client reporting
-- Performed manual and component-level QA before each release; mentored junior teammates on testing
-
----
-
-## Projects
-
-### Smart Dining Hub — AI Restaurant Management System
-An AI-powered restaurant management system with real-time order tracking and automated menu suggestions.
-
-- Reduced manual order errors by 50% through AI-driven automation
-- Containerized with Docker, deployed on AWS with a full CI/CD pipeline
-- Unit and component tested across all core ordering and sync flows
-
-🔗 [github.com/Kawish07/smart-dining-hub](https://github.com/Kawish07/smart-dining-hub)
+- Developed full-stack applications using Next.js and MERN.
+- Integrated AI chatbot functionality using Gemini API and Botpress.
+- Built real-time dashboards and application features.
+- Collaborated with junior developers and supported software testing.
 
 ---
 
-### Real Estate Platform
-A property listing and search platform with JWT authentication, admin dashboard, and advanced search filters.
+## 🚀 Featured Projects
 
-- **Tech:** MERN · JWT · MongoDB
+### 1. Smart Dining Hub
+An AI-integrated restaurant management platform featuring digital ordering, role-based dashboards, payment verification and real-time order tracking.
 
----
+**Tech:** MERN, Next.js, MongoDB, SSE, Gemini API
 
-### TriWebStudio
+[View Repository](https://github.com/Kawish07/smart-dining-hub)
+
+### 2. Real Estate Platform
+A property management and listing application with authentication, advanced search and administrative features.
+
+**Tech:** MERN, MongoDB, JWT
+
+### 3. TriWebStudio
 A full-stack web studio platform built with TypeScript.
 
-🔗 [github.com/Kawish07/TriWebStudio](https://github.com/Kawish07/TriWebStudio)
+**Tech:** TypeScript, React, Node.js
+
+[View Repository](https://github.com/Kawish07/TriWebStudio)
+
+### 4. Ecommerce Website
+An e-commerce application with product management and checkout functionality.
+
+**Tech:** MERN, JavaScript
+
+[View Repository](https://github.com/Kawish07/Ecommerce-Website)
+
+### 5. Floor Detection System
+A computer vision project using Meta's Segment Anything Model.
+
+**Tech:** Python, SAM, Computer Vision
+
+### 6. Stock Management System
+An inventory management application for tracking stock and products.
+
+**Tech:** TypeScript
+
+[View Repository](https://github.com/Kawish07/Stock-management-system)
 
 ---
 
-### Ecommerce Website
-A full-featured ecommerce application with product management and checkout flow.
+## 🎓 Education
 
-🔗 [github.com/Kawish07/Ecommerce-Website](https://github.com/Kawish07/Ecommerce-Website)
-
----
-
-### Floor Detection System — Computer Vision
-An AI-based floor detection pipeline using Meta's Segment Anything Model (SAM).
-
-- Achieved 90%+ detection accuracy
-- **Tech:** Python · SAM · Computer Vision
+**BS Computer Science**  
+Iqra University, Islamabad | 2021–2025
 
 ---
 
-### Stock Management System
-An inventory and stock tracking system built with TypeScript.
+## 🌐 Languages
 
-🔗 [github.com/Kawish07/Stock-management-system](https://github.com/Kawish07/Stock-management-system)
-
----
-
-## Education
-
-**BS Computer Science** — Iqra University, Islamabad
-2021 – 2025
+- Urdu — Native
+- English — Working proficiency
 
 ---
 
-## Languages
+### Let's Connect
 
-English — Professional | Urdu — Native
+I'm interested in Full Stack Development, AI Integration and international software development opportunities.
+
+📧 **kawishiqbal898@gmail.com**
